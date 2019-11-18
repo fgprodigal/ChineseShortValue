@@ -1,0 +1,7 @@
+## Interface: 80200
+## Author: fgprodigal
+## Version: 1.00
+## Title: 中文数字缩写
+## DefaultState: Enabled
+
+ChineseShortValue.lua
